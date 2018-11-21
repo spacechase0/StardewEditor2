@@ -1,0 +1,8 @@
+imgui.ini
+log.txt
+*.dll
+obj
+*.exe
+*.depend
+*.layout
+*.zip
